@@ -1,0 +1,106 @@
+DATA DUMMY 100 MAHASISWA
+Sesuai soal nomor 2: nilai Basis Data, Sistem Operasi, dan Struktur Data.
+Semua nilai merupakan data simulasi (rentang 60–100).
+
+No.  Nama Mahasiswa                  Basis Data    Sistem Operasi   Struktur Data
+---------------------------------------------------------------------------------
+1    Daffa                                   90                85              95
+2    Raka                                    85                92              88
+3    Arta                                    95                87              90
+4    Arkan                                   78                89              84
+5    Bayu                                    88                80              91
+6    Rara                                    92                95              89
+7    Lana                                    83                86              94
+8    Galuh                                   96                91              87
+9    Efi                                     89                88              93
+10   Aditya Pratama                          71                61              74
+11   Aditya Saputra                          78                72              87
+12   Aditya Wijaya                           85                83             100
+13   Aditya Nugraha                          92                94              72
+14   Aditya Firmansyah                       99                64              85
+15   Aditya Ramadhan                         65                75              98
+16   Aditya Permana                          72                86              70
+17   Aditya Setiawan                         79                97              83
+18   Aditya Kurniawan                        86                67              96
+19   Andika Pratama                          93                78              68
+20   Andika Saputra                         100                89              81
+21   Andika Wijaya                           66               100              94
+22   Andika Nugraha                          73                70              66
+23   Andika Firmansyah                       80                81              79
+24   Andika Ramadhan                         87                92              92
+25   Andika Permana                          94                62              64
+26   Andika Setiawan                         60                73              77
+27   Andika Kurniawan                        67                84              90
+28   Bagas Pratama                           74                95              62
+29   Bagas Saputra                           81                65              75
+30   Bagas Wijaya                            88                76              88
+31   Bagas Nugraha                           95                87              60
+32   Bagas Firmansyah                        61                98              73
+33   Bagas Ramadhan                          68                68              86
+34   Bagas Permana                           75                79              99
+35   Bagas Setiawan                          82                90              71
+36   Bagas Kurniawan                         89                60              84
+37   Bima Pratama                            96                71              97
+38   Bima Saputra                            62                82              69
+39   Bima Wijaya                             69                93              82
+40   Bima Nugraha                            76                63              95
+41   Bima Firmansyah                         83                74              67
+42   Bima Ramadhan                           90                85              80
+43   Bima Permana                            97                96              93
+44   Bima Setiawan                           63                66              65
+45   Bima Kurniawan                          70                77              78
+46   Cahya Pratama                           77                88              91
+47   Cahya Saputra                           84                99              63
+48   Cahya Wijaya                            91                69              76
+49   Cahya Nugraha                           98                80              89
+50   Cahya Firmansyah                        64                91              61
+51   Cahya Ramadhan                          71                61              74
+52   Cahya Permana                           78                72              87
+53   Cahya Setiawan                          85                83             100
+54   Cahya Kurniawan                         92                94              72
+55   Dimas Pratama                           99                64              85
+56   Dimas Saputra                           65                75              98
+57   Dimas Wijaya                            72                86              70
+58   Dimas Nugraha                           79                97              83
+59   Dimas Firmansyah                        86                67              96
+60   Dimas Ramadhan                          93                78              68
+61   Dimas Permana                          100                89              81
+62   Dimas Setiawan                          66               100              94
+63   Dimas Kurniawan                         73                70              66
+64   Fajar Pratama                           80                81              79
+65   Fajar Saputra                           87                92              92
+66   Fajar Wijaya                            94                62              64
+67   Fajar Nugraha                           60                73              77
+68   Fajar Firmansyah                        67                84              90
+69   Fajar Ramadhan                          74                95              62
+70   Fajar Permana                           81                65              75
+71   Fajar Setiawan                          88                76              88
+72   Fajar Kurniawan                         95                87              60
+73   Farhan Pratama                          61                98              73
+74   Farhan Saputra                          68                68              86
+75   Farhan Wijaya                           75                79              99
+76   Farhan Nugraha                          82                90              71
+77   Farhan Firmansyah                       89                60              84
+78   Farhan Ramadhan                         96                71              97
+79   Farhan Permana                          62                82              69
+80   Farhan Setiawan                         69                93              82
+81   Farhan Kurniawan                        76                63              95
+82   Ilham Pratama                           83                74              67
+83   Ilham Saputra                           90                85              80
+84   Ilham Wijaya                            97                96              93
+85   Ilham Nugraha                           63                66              65
+86   Ilham Firmansyah                        70                77              78
+87   Ilham Ramadhan                          77                88              91
+88   Ilham Permana                           84                99              63
+89   Ilham Setiawan                          91                69              76
+90   Ilham Kurniawan                         98                80              89
+91   Kevin Pratama                           64                91              61
+92   Kevin Saputra                           71                61              74
+93   Kevin Wijaya                            78                72              87
+94   Kevin Nugraha                           85                83             100
+95   Kevin Firmansyah                        92                94              72
+96   Kevin Ramadhan                          99                64              85
+97   Kevin Permana                           65                75              98
+98   Kevin Setiawan                          72                86              70
+99   Kevin Kurniawan                         79                97              83
+100  Rizky Pratama                           86                67              96
